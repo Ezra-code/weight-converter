@@ -37,6 +37,11 @@ p span{
     font-size: larger;
     font-weight: 600;
 }
+#error-txt{
+    padding: 2px;
+    background: rgba(255,99,71,0.4);
+    color: darkred
+}
 p{
     display: none;
 }
