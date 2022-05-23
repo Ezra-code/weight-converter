@@ -11,5 +11,6 @@ convertBtn.addEventListener('click', ()=> {
         let mass = Math.round(weight * 2.2)
         converted.style.display = 'block'
         weit.innerHTML = mass
+        weitEl.value = ''
     }
 })
