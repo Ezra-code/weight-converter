@@ -20,7 +20,7 @@ As a user of the application,you will be able to :
 * Input your weight in kilograms.
 * Convert your weight by clicking the convert button.
 * Get the results of your convereted weight
-[Go Back to the top](#WeightConverter)
+[Go Back to the top](#Weight-Converter)
  ###  Requirements
  * Access to  a computer or any other gadget
  * Access to internet
@@ -30,16 +30,16 @@ As a user of the application,you will be able to :
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
- [Go Back to the top](#WeightConverter)
+ [Go Back to the top](#Weight-Converter)
 ### Live Link
-- Click this link to view the live application ezra-code.github.io/weight-converter/ 
+- Click this link to view the live application https://ezra-code.github.io/weight-converter/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
 * JavaScript (JS) - was used to make the page responsive
-[Go Back to the top](#WeightConverter)
+[Go Back to the top](#Weight-Converter)
 ## Licence
 This project is licensed under the terms of the MIT license
-[Go Back to the top](#WeightConverter)
+[Go Back to the top](#Weight-Converter)
 ## Authors Info
 Ezra Njeru Kithinji 
